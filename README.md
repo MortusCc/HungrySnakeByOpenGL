@@ -1,6 +1,9 @@
 # 2D贪吃蛇游戏 - OpenGL实现
 A 2D Snake Game Implemented with OpenGL and C++
 
+<img width="1717" height="911" alt="image" src="https://github.com/user-attachments/assets/cae4351e-7a42-4c17-bf70-51ac13e32069" />
+
+
 ## 项目介绍
 本项目是基于 **C++** 和 **OpenGL** 图形库开发的经典2D贪吃蛇游戏，结合计算机图形学核心技术（如正交投影、像素级渲染、双缓冲机制）实现流畅的游戏体验。支持边界穿越、蛇身颜色渐变、动态难度调整等核心功能，代码结构清晰，环境配置步骤详尽，适合作为OpenGL入门实践项目。
 
